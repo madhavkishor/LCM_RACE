@@ -32,5 +32,5 @@ This project demonstrates how **mathematical visualization** can make learning m
 It also gives a practical glimpse into **educational game development** using **PHP + JS**.
 
 ---
-**Author:** [Your Name]  
+**Author: Madhav Kishor **
 **For:** Maths Teaching via Games Assignment (LCM Topic)
